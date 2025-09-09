@@ -10,7 +10,6 @@
 
 ###
 
-<img align="right" height="180" src="postt.jpg" alt="Soumen Mukherjee" />
 
 ### 🛠️ Tech Stack  
 <div align="left">
