@@ -55,9 +55,9 @@
   <a href="https://www.youtube.com/@pingpong7247" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/soumen-mukherjee-sm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+ <a href="https://www.linkedin.com/in/soumen-mukherjee-sm" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/original/linkedin-logo-png-linkedin-icon-transparent-png-free-png.png" width="40" height="40" alt="LinkedIn logo" />
+</a>
   <a href="https://www.instagram.com/soumen_mkrg/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
